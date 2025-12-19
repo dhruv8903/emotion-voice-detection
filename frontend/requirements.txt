@@ -1,1 +1,5 @@
-pip install streamlit requests sounddevice scipy
+streamlit
+requests
+sounddevice
+scipy
+numpy
